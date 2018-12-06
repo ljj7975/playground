@@ -1,2 +1,2 @@
 # playground
-useful code samples
+This is my personal code sample repository to reference
